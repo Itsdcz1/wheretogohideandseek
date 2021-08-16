@@ -5,7 +5,7 @@ print("1 end of area")
 print("2 start of area")
 print("3 middle of area")
 print("4 random place")
-print("5 rush")
+print("5 push")
 
 
 n = input("Go? (y/n): ")
